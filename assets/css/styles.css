@@ -194,7 +194,6 @@ img{
 }
 .home__title{
   font-size: var(--big-font-size);
-  margin-bottom: var(--mb-5);
 }
 .home__title-color{
   color: var(--first-color);
@@ -249,6 +248,8 @@ img{
 }
 
 /* ===== SKILLS =====*/
+
+
 .skills__container{
   row-gap: 2rem;
   text-align: center;
@@ -294,6 +295,22 @@ img{
 .skills__img{
   border-radius: .5rem;
 }
+
+.skillss {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 15%;
+}
+
+  .skills__skill {
+    padding: 0.7rem 1.4rem;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    font-size: 1.6rem;
+    background: rgba(153, 153, 153, 0.2);
+    border-radius: 5px;
+    font-weight: 600;
+    color: #777; }
 
 /* ===== WORK =====*/
 .work__container{
