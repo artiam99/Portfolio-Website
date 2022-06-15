@@ -311,6 +311,13 @@ img{
     border-radius: 5px;
     font-weight: 600;
     color: #777; }
+@media only screen and (max-width: 56.25em) {
+    .skills__skill {
+    padding: 2% 4%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    font-size: 100%;
+  }}
 
 /* ===== WORK =====*/
 .work__container{
