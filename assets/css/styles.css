@@ -303,10 +303,10 @@ img{
 }
 
   .skills__skill {
-    padding: 0.7rem 1.4rem;
-    margin-bottom: 1.5rem;
-    margin-right: 1.5rem;
-    font-size: 1.6rem;
+    padding: 1% 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    font-size: 160%;
     background: rgba(153, 153, 153, 0.2);
     border-radius: 5px;
     font-weight: 600;
