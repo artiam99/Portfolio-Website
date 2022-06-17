@@ -302,6 +302,11 @@ img{
   margin-left: 15%;
 }
 
+@media only screen and (max-width: 56.25em) {
+  .skillss {
+    margin-left: 13%;
+}}
+
   .skills__skill {
     padding: 1% 2%;
     margin-bottom: 2%;
